@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../AP-AMS"
+		},
+		{
+			"name": "Arduino",
+			"path": "../AP-AMS/Arduino"
+		},
+		{
+			"name": "AMCU",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

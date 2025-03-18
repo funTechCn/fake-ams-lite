@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+            "map": "cpp",
+            "queue": "cpp",
+            "new": "cpp",
+            "condition_variable": "cpp",
+            "future": "cpp",
+            "stack_macros.h": "c",
+            "freertos.h": "c",
+            "task.h": "c",
+            "rp2040_config.h": "c",
+            "multicore.h": "c",
+            "system_error": "cpp",
+            "string_view": "cpp",
+            "*.tcc": "cpp",
+            "string": "cpp",
+            "iomanip": "cpp",
+            "ostream": "cpp",
+            "sstream": "cpp",
+            "*.x": "cpp",
+            "vector": "cpp",
+            "fstream": "cpp",
+            "limits": "cpp",
+            "utility": "cpp",
+            "chrono": "cpp",
+            "random": "cpp",
+            "i2c.h": "c",
+            "cmath": "cpp",
+            "numeric": "cpp",
+            "ratio": "cpp",
+            "cinttypes": "cpp",
+            "cstdlib": "cpp",
+            "mstd_iterator": "cpp",
+            "array": "cpp",
+            "optional": "cpp",
+            "istream": "cpp",
+            "functional": "cpp",
+            "tuple": "cpp",
+            "type_traits": "cpp",
+            "thread": "cpp",
+            "deque": "cpp",
+            "forward_list": "cpp",
+            "list": "cpp",
+            "unordered_map": "cpp",
+            "unordered_set": "cpp",
+            "initializer_list": "cpp",
+            "bit": "cpp"
+        }
+	}
+}
